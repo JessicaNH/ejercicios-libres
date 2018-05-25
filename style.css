@@ -1,0 +1,45 @@
+#red {
+    background-color: red;
+    height: 200px;
+    position: relative;
+    width: 200px;
+
+}
+#purple{
+    background-color: purple;
+    height: 100px;
+    position: relative;
+    width: 100px;
+    top: 50px;
+    right:-50px
+
+}
+#yellow {
+    background-color: yellow;
+    height: 45px;
+    position: relative;
+    width: 45px;
+}
+#blue{
+    background-color: blue;
+    height: 200px;
+    position: relative;
+    width: 200px;
+    margin-top: 10px;
+
+}
+#green{
+    background-color: green;height: 100px;
+    position: relative;
+    width: 100px;
+    top: 50px;
+    right:-50px;
+    top:-2.5px
+
+}
+#black{
+    background-color: black;
+    height: 50px;
+    position: relative;
+    width: 50px;
+}
